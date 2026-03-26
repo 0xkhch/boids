@@ -8,5 +8,4 @@ make && ./build/main
 ```
 
 # Demo
-https://github.com/user-attachments/assets/f841da85-fd85-4f58-95ed-159ca13523ac
-
+https://github.com/user-attachments/assets/0810d42f-f484-4271-b795-28a40967cdb2
